@@ -1,3 +1,12 @@
+#
+#Carson Pepe
+#13926584
+#9/23/2018
+#
+#Lab 0
+#Section 15
+#Purpose: To shortly practice previously learned python skills while writing concise code.
+
 def weight_on_planets():
    weight = int(input("What do you weigh on earth? "))
    mars = weight * 0.38
